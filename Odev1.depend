@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1545178701 source:c:\users\ozan\desktop\yazýlým mühendisliði\c Çalýþmam\odev1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
